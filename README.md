@@ -1,0 +1,1 @@
+# ASP.NET Core Mvc - Northwind EF Core Scaffolding Demonstration
